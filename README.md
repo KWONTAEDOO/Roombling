@@ -69,7 +69,7 @@
 
 게임목록
 
-![image](https://user-images.githubusercontent.com/65216835/125382490-b556cf00-e3d0-11eb-8508-58da7fd8ebc3.png)
+![image](https://user-images.githubusercontent.com/65216835/125574544-e8541c08-7096-46ce-9daf-ddc12398a8be.png)
 
 
 
